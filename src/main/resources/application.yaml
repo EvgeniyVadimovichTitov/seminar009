@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: HomeworkSem006
+  jpa:
+    generate-ddl: false
+    hibernate:
+      ddl-auto: none
